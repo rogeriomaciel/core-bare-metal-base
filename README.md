@@ -1,5 +1,19 @@
 # ⚡ Core-Bare-Metal-Base
 
+[![Bun](https://img.shields.io/badge/Runtime-Bun-black?logo=bun)](https://bun.sh)
+[![Vite](https://img.shields.io/badge/Bundler-Vite-646CFF?logo=vite)](https://vitejs.dev)
+[![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?logo=typescript)](https://www.typescriptlang.org)
+[![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind_CSS-38B2AC?logo=tailwind-css)](https://tailwindcss.com)
+[![PageSpeed Mobile](https://img.shields.io/badge/PageSpeed_Mobile-99%2F100-brightgreen)](#)
+[![Core Web Vitals](https://img.shields.io/badge/LCP-%3C0.5s_%7C_TBT%3D0ms-success)](#)
+
+> **High-Performance Multi-Page SSG Template for Conversion-Driven Web Applications.**  
+> Built with **Bun, Vite Multi-Entry, TypeScript & Tailwind CSS**. Engineered for **99/100 Mobile Google PageSpeed**, **LCP < 0.5s**, and **0ms TBT** through critical CSS inlining, zero-runtime static site pre-rendering, and on-demand interactive hydration.
+>
+> *(Documentação completa disponível abaixo em Português)*
+
+---
+
 > **Repositório Template Oficial da Arquitetura Core-Bare-Metal™**  
 > Engenharia de software de alta performance para criação, replicação e hospedagem de Landing Pages e sites ultrarrápidos para clientes.  
 > **Score 99/100 no Google PageSpeed Mobile • LCP < 0.5s • TBT 0ms • Multi-Páginas TSX Nativo • SEO & GEO para IA • Deploy Automatizado para VPS.**
