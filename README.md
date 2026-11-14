@@ -17,6 +17,10 @@
 > **Repositório Template Oficial da Arquitetura Core-Bare-Metal™**  
 > Engenharia de software de alta performance para criação, replicação e hospedagem de Landing Pages e sites ultrarrápidos para clientes.  
 > **Score 99/100 no Google PageSpeed Mobile • LCP < 0.5s • TBT 0ms • Multi-Páginas TSX Nativo • SEO & GEO para IA • Deploy Automatizado para VPS.**
+>
+> 🌐 **Estudo de Caso & Análise de Conversão:**  
+> Veja como o carregamento instantâneo (<0.5s) e o Speed-to-Lead impactam as taxas de conversão no WhatsApp:  
+> [rogeriomaciel.com.br/solucoes/speed-to-lead-automacao-vendas/](https://rogeriomaciel.com.br/solucoes/speed-to-lead-automacao-vendas/)
 
 ---
 
@@ -350,6 +354,15 @@ O relatório exibirá:
 | `bun run audit` | Executa a auditoria oficial Google PageSpeed Mobile |
 | `bun run sync-base` | Sincroniza o projeto com as últimas melhorias da base |
 | `./novo-cliente.sh <nome>` | Provisiona um novo projeto de cliente a partir do template |
+
+---
+
+## 💼 Consultoria de Arquitetura & Desenvolvimento
+
+Sua empresa precisa de Landing Pages ultrarrápidas, sem plugins pesados e com entrega instantânea no WhatsApp?
+
+👉 **[Trocar uma ideia diretamente com Rogério Maciel no WhatsApp](https://wa.me/5562996232227?text=Ol%C3%A1%20Rog%C3%A9rio%2C%20vi%20a%20arquitetura%20Core-Bare-Metal%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20alta%20performance.)**  
+👉 **[Conheça o Portal Oficial de Soluções: rogeriomaciel.com.br](https://rogeriomaciel.com.br/solucoes/speed-to-lead-automacao-vendas/)**
 
 ---
 
